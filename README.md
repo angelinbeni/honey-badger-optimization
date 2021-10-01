@@ -1,2 +1,2 @@
 # HBO-algorithm
-Python code for Honey Badger Optimizatio Algorithm
+Python code for Honey Badger Optimization Algorithm
